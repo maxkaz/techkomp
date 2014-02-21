@@ -1,4 +1,4 @@
-techkomp
+Pierwsze Programy w C
 ========
 
 Technologie Internetowe PSPI Pierwsze Programy w C
