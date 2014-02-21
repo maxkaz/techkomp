@@ -1,0 +1,4 @@
+techkomp
+========
+
+Technologie Komputerowe PSPI
