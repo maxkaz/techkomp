@@ -1,6 +1,7 @@
 Pierwsze Programy w C
 ========
 ![](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
+
 Technologie Internetowe PSPI Pierwisze Programy w C
 Zwyczajowo  zaczynay od programu 
 *hello world*:
