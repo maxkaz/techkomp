@@ -20,5 +20,6 @@ zob.(Hello world program)[1]
 
 
 
-[1](http://en.wikipedia.org/wiki/Hello_world_program)
+(http://en.wikipedia.org/wiki/Hello_world_program)
+
 
