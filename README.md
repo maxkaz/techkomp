@@ -24,6 +24,6 @@ zob.(Hello world program)
 W niedziele 
 1)rozmawiamy o gihubie decsktop
 ![](http://pl.wikipedia.org/wiki/GitHub)
-2) pow notację w marddown
+2) pow notację w markdown
 3)obiad 
 
