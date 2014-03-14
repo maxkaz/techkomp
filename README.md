@@ -27,3 +27,6 @@ W niedziele
 2) pow notację w markdown
 3)obiad 
 
+
+Łukasz 5 zyla oddasz mi kupując kawę
+
